@@ -15,7 +15,8 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shpark0920&theme=default)](https://shpark0920.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shpark0920&postId=151&theme=default)](https://shpark0920.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shpark0920&postId=154&theme=default)](https://shpark0920.tistory.com/)
 </div><br>
     
 ## 🔨 Once I've used 🔨
