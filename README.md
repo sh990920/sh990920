@@ -84,7 +84,5 @@
 <div style="display:flex; flex-direction:row;">
 
 ![sh990920's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh990920&show_icons=true&theme=synthwave)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh990920&layout=compact&theme=calm)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh990920)](https://solved.ac/sh990920/)
 </div><br>
